@@ -40,6 +40,9 @@ int main (void){
 	
 		}
 	}
+	
+	
+	
 	printf("\nprogram terminaated\n");
 	
 	
